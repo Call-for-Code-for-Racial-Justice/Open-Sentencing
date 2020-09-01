@@ -92,7 +92,7 @@ Swapping out data sets  Bias integration, expand to entire judiciary personas an
 [America's Public Defense System Is in Crisis](https://www.youtube.com/watch?v=xqLE4ryWMX4)
 
 In addition, sponsor user interview Based Research Conducted by Outcarcerate Team included a judge and attorneys.
-
+![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/ToBePD.png)
 
 [Find Support Here](https://github.com/Call-for-Code/Embrace-Judicial-Reform/blob/main/SUPPORT.md)
 
@@ -101,4 +101,5 @@ In addition, sponsor user interview Based Research Conducted by Outcarcerate Tea
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/Call%20for%20Code.png)
 
 Team Members:
+
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/OutcarcerateTeam.png)
