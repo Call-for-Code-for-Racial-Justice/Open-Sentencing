@@ -41,7 +41,7 @@ Web application where a defense attorney / public defender can upload informatio
 Our tool will clearly indicate and denote when bias/racism was detected and highlight it for attorneys to use in defense process.
 Bias detection (highlighted clearly), demographics from uploads, key sentencing information that we mined and have within our tool, as well as recommendations from our tool make a public defenders job easier and frees up time to focus on case(s).
 
-![](BiasDetect.png)![](BiasDetect.png)
+![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/Bias%20Detection.png)![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/Bias%20Detection.png)
 
 ### **Users and Skills**
 
