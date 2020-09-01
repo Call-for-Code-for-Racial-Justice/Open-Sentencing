@@ -75,7 +75,7 @@ i
 
 
 ### **Architecture diagram** 
-![][https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/architechture.png]
+![](https://raw.githubusercontent.com/embrace-call-for-code/outcarcerate-docs/master/architechture.png)
 
 **Suggestions on how to take the idea in other directions**
 Swapping out data sets  Bias integration, expand to entire judiciary personas and public facing dashboard (PS1 solution assessment of laws and bias mapped to assess your judges and local prosecutors) - integrated with all of theme 3 (arrest, police report, judiciary) and with hirings.
