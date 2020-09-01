@@ -4,10 +4,6 @@ This solution starter was created by a team of IBM/Red Hat employee volunteers a
 
 Emb(race) Team Members:  Please see the end of this document!
 
-### **Theme**
-
-Police and Judicial Reform and Accountability
-
 
 ## **Description of Problem**
 
