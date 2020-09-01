@@ -12,7 +12,7 @@ People in the Black Community are faced with harsher downstream effects (charged
 > We found that nearly all sentencing is completed at the plea level for defendants represented by a [*public defender*](https://www.youtube.com/watch?v=xqLE4ryWMX4).  We want to provide more information to arm public defenders against powerful and more often strongly equipped prosecutors and judges.
 
 ## **How Tech Can Help**
-A simple to use tool can make the process of collecting and analyzing data quicker and easier for already very busy and often overloaded public defenders. Our tool can quickly highlight bias and other insights saving valuable time allowing more focused on reducing sentences.
+A simple to use tool can make the process of collecting and analyzing data quicker and easier for already very busy and often overloaded public defenders. Our tool can quickly highlight bias and other insights saving valuable time allowing more focused on reducing sentences.  Black Lives Matter - let's fairly give people more of life outside of prison.  
 
 ## **Idea/Solution** 
 
