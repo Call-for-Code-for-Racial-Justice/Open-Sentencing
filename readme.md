@@ -4,17 +4,9 @@ This solution starter was created by a team of IBM/Red Hat employee volunteers a
 
 Emb(race) Team Members:  Please see the end of this document!
 
-### **Table of Contents:**
+### **Theme**
 
-* Description of Problem
-* How Tech Can Help
-* Idea/Solution
-* Users and Skills
-* Technical Materials
-* Data Sources
-* Architecture Diagram
-* Suggestions on how to take the idea in other directions
-* References
+Police and Judicial Reform and Accountability
 
 
 ## **Description of Problem**
