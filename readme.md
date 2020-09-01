@@ -14,6 +14,8 @@ People in the Black Community are faced with harsher downstream effects (charged
 ## **How Tech Can Help**
 A simple to use tool can make the process of collecting and analyzing data quicker and easier for already very busy and often overloaded public defenders. Our tool can quickly highlight bias and other insights saving valuable time allowing more focused on reducing sentences.  Black Lives Matter - let's fairly give people more of life outside of prison.  
 
+>Our solution works with the bias detection engine - Learn more here: https://github.com/embrace-call-for-code/bias-detection-engine
+
 ## **Idea/Solution** 
 
 Web application where a defense attorney / public defender can upload information about a case and the defendant. 
