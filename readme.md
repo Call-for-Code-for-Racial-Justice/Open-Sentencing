@@ -86,6 +86,8 @@ In addition, sponsor user interview Based Research Conducted by Outcarcerate Tea
 
 [Find Support Here](https://github.com/Call-for-Code/Embrace-Judicial-Reform/blob/main/SUPPORT.md)
 
+Contributions are subject to the Developer Certificate of Origin, Version 1.1 (DCO) (https://developercertificate.org/) and the Apache Software License, Version 2 (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 *Thank you* for your interest and we truly hope this helps!
 
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/Call%20for%20Code.png)
