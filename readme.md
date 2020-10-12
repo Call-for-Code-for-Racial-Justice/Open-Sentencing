@@ -31,14 +31,14 @@ The web application:
 
 Public defenders can then act immediately on this information to negotiate a better plea or sentence for the defendant.
 
-![A diagram of the bias detection and reporting process, its inputs, its actions, and its reported output.](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/Bias%20Detection.png)
+![A diagram of the bias detection and reporting process, its inputs, its actions, and its reported output.](Bias%20Detection.png)
 
 ## How it works
 
 #### Architecture
 <!-- Ideally some text in here about what happens would be helpful. -->
 
-![Architecture diagram for the project](https://raw.githubusercontent.com/embrace-call-for-code/outcarcerate-docs/master/architecture.png)
+![Architecture diagram for the project](architecture.png)
 
 ### Components
 
@@ -51,8 +51,8 @@ Public defenders can then act immediately on this information to negotiate a bet
 *  Mock-up: https://ibm.invisionapp.com/share/92O0CQSMK7Q
 *  Repo: https://github.com/embrace-call-for-code/outcarcerate-ui
 
-![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UI%20Example.png)
-![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UIexample2.png)
+![User interface mockup showing basic case details and insight summary tab](UIExample.png)
+![User interface mockup showing the insight summary with example insights](UIexample2.png)
 
 
 #### Skills required
@@ -91,7 +91,9 @@ All contributions are subject to the Developer Certificate of Origin, Version 1.
 * Uploaded files from lawyers, police, court staff, or links to case file management systems.
 * Others Data Sources In progress (ideally we'd expand to all levels of government).
 * Sponsor user interview based research conducted by Outcarcerate Team including a judge and attorneys.
-![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/ToBePD.png)
+
+<!-- This isn't accessible; it would be better to make this a HTML table-->
+![Screenshot of a table showing the to-be scenario of an example public defender](ToBePD.png)
 
 
 ### Background reading
@@ -125,7 +127,7 @@ All contributions are subject to the Developer Certificate of Origin, Version 1.
 * Whitley Walters
 * Yasmine Guedjou
 
-![Graphic showing the Outcarcerate team: Adria Spivack, Ann Marie Fred, Ben Chance, Harendranath Vegi, Hema Veeradhi, Jean Carlos Ricardo Arruda, Jeimmy Cesar, Jo Ann Hill, Kate Tereshchenko, Kyleni Rivers, Stacy Forsyth, Matt Tribby, Max Veit, Whitley Walters, and Yasmine Guedjou](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/OutcarcerateTeam.png)
+![Graphic showing the Outcarcerate team: Adria Spivack, Ann Marie Fred, Ben Chance, Harendranath Vegi, Hema Veeradhi, Jean Carlos Ricardo Arruda, Jeimmy Cesar, Jo Ann Hill, Kate Tereshchenko, Kyleni Rivers, Stacy Forsyth, Matt Tribby, Max Veit, Whitley Walters, and Yasmine Guedjou](OutcarcerateTeam.png)
 
 
 *Thank you* for your interest and we truly hope this helps!
