@@ -4,18 +4,34 @@ This solution starter was created by a team of IBM/Red Hat employee volunteers a
 
 Emb(race) Team Members:  Please see the end of this document!
 
+## **Table of Contents**
+* [ What is Outcarcerate ](#out)
+* [ How Tech Can Help ](#help)
+* [ Idea/Solution ](#solution)
+* [User and Skills](#skills)
+* [Browser Support ](#browser)
+* [Architecture Diagram](#architecture)
+* [Technical Materials](#steps)
+* [Data Sources](#sources)
+* [Future Implementations/Ideas](#future)
+* [References](#references)
+* [License ](#lincense)
 
-## **Description of Problem**
+<a name="out"></a>
+## **What is Outcarcerate?**
+People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a deep and lasting impact on black families, communities and the country. Outcarcerate exposes bias and empowers public defenders to directly address racial disparities in the system.  Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused persons judiciary process.  The reports from Outcarcerate provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
 
-People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses.  We created a tool with the goal of ***reducing sentencing*** for people impacted by **bias** and **racism**.
+We created a tool with the goal of ***reducing sentencing*** for people impacted by **bias** and **racism**.
 
 > We found that nearly all sentencing is completed at the plea level for defendants represented by a [*public defender*](https://www.youtube.com/watch?v=xqLE4ryWMX4).  We want to provide more information to arm public defenders against powerful and more often strongly equipped prosecutors and judges.
 
+<a name="help"></a>
 ## **How Tech Can Help**
 A simple to use tool can make the process of collecting and analyzing data quicker and easier for already very busy and often overloaded public defenders. Our tool can quickly highlight bias and other insights saving valuable time allowing more focused on reducing sentences.  Black Lives Matter - let's fairly give people more of life outside of prison.  
 
 >Our solution works with the bias detection engine - Learn more here: https://github.com/embrace-call-for-code/bias-detection-engine
 
+<a name="solution"></a>
 ## **Idea/Solution** 
 
 Web application where a defense attorney / public defender can upload information about a case and the defendant. 
@@ -33,7 +49,8 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/Bias%20Detection.png)
 
-### **Users and Skills**
+<a name="skills"></a>
+## **Users and Skills**
 
 * *Developers*:  skills: React, OSS, full stack (java, python), data science; user experience: need to develop a getting started process
 * *End-users*:  skills: online training on navigating the tool 
@@ -41,36 +58,60 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 * *Private beneficiaries*:  N/A 
 * *SMEs* (Lawyers, American Bar Association, Southern Poverty Law Center, Judiciary NGOs):  skills:  unsupervised learning for training and expanding the ML/bias detection engine for new personas, locales, scope, crime types, etc.
 
-### **Technical materials** - 
+<a name="browser"></a>
+## Browser Support: 
+* Chrome 
+* Edge 
+* Firefox 
+* Internet Explorer 
+* Safari 
+
+<a name="architecture"></a>
+## Architecture Diagram
+[![Picture1.png](https://i.postimg.cc/x1mJ3mGG/Picture1.png)](https://postimg.cc/DS2w28Mm)
+
+<a name="steps"></a>
+## **Technical Materials** - 
 
 Aggregator
 * Repo: https://github.com/embrace-call-for-code/outcarcerate-aggregator
 * OpenAPI: https://github.com/embrace-call-for-code/outcarcerate-aggregator/blob/master/src/main/resources/swagger.yaml
 * Service URL: https://outcarcerate-aggregator-decarcerate.embrace-dev-ocp43-vpc-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud/
+[![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)](https://postimg.cc/vc2W9wwY)
+UPLOAD VIDEO DEMO HERE
 
 UI (User-Interface)
 *  Mock-up: https://ibm.invisionapp.com/share/92O0CQSMK7Q
-*  Repo: https://github.com/embrace-call-for-code/outcarcerate-u
-i
+*  Repo: https://github.com/embrace-call-for-code/outcarcerate-ui
 
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UI%20Example.png)
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UIexample2.png)
 
-### **Data Sources**
+Open Sentencing Model
+* Repo: https://github.com/embrace-call-for-code/open-sentencing-model
+* Demo:
 
-*  [United States Sentencing Commission](https://ida.ussc.gov/analytics/saw.dll?Dashboard)
+Report Generator
+* Repo: https://github.com/embrace-call-for-code/outcarcerate-report-generator
+* Demo:
+
+Bias Detection Engine
+* Repo: https://github.com/embrace-call-for-code/bias-detection-engine
+* Demo:
+
+<a name="sources"></a>
+## **Data Sources**
+
+* [United States Sentencing Commission](https://ida.ussc.gov/analytics/saw.dll?Dashboard)
 * Uploaded files from lawyers, police, court staff, or links to case file management systems.
 * Others Data Sources In progress (ideally we'd expand to all levels of government).
 
+<a name="future"></a>
+## Future Implementations/Ideas
+Going forward, we hope the solution will have a global impact on the advancement of racial justice, and with the solution -- that institutions, organizations, and individuals -- can continue to build an understanding, participation, and collaboration to sustain and grow commitments towards an equitable safe and enhanced quality of life. Race will have nothing to do with who is in jail. The solution will get adopted at each level of government – from cities, counties, states and federal – with the associated data available and enhanced to enable effective analysis and make recommendations to address the disparities in sentencing of Black defendants. We want to find partners who can help us get access to bigger and richer data sets, as well as partners who can help us build a solution that meets all of the legal and security standards that will allow us to use more information about individual defendants and cases. 
 
-
-### **Architecture diagram** 
-![](https://raw.githubusercontent.com/embrace-call-for-code/outcarcerate-docs/master/architechture.png)
-
-**Suggestions on how to take the idea in other directions**
-Swapping out data sets  Bias integration, expand to entire judiciary personas and public facing dashboard (PS1 solution assessment of laws and bias mapped to assess your judges and local prosecutors) - integrated with all of theme 3 (arrest, police report, judiciary) and with hirings.
-
-### **References**
+<a name="references"></a>
+## **References**
 
 * [Racial Disparity in Federal Criminal Sentences](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2413&context=articles)
 * [Racial, Ethnic, and Gender Disparities In Federal Sentencing Today](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-projects-and-surveys/miscellaneous/15-year-study/chap4.pdf)
@@ -95,3 +136,11 @@ Contributions are subject to the Developer Certificate of Origin, Version 1.1 (D
 Team Members:
 
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/OutcarcerateTeam.png)
+
+<a name="license"></a>
+## **License** 
+The embed link applications are licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt). 
+[Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN) 
+The embed sites provides applications using data that has been modified for use from its original source, www.ida.ussc.gov, an official website of the U.S. Sentencing Commission. The U.S. Sentencing Commission makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk. 
+This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/embrace-call-for-code/outcarcerate-ui/blob/master/LICENSE) file for details 
+Content license pending legal guidance. 
