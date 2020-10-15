@@ -1,3 +1,5 @@
+[![Embrace-Logo.png](https://i.postimg.cc/x88MVXs0/Embrace-Logo.png)](https://postimg.cc/K3XRn8SV)
+
 # **Solution Starter Kit - Outcarcerate**
 ## 
 This solution starter was created by a team of IBM/Red Hat employee volunteers as part of the Emb(race) Call for Code Challenge.
@@ -12,10 +14,16 @@ Emb(race) Team Members:  Please see the end of this document!
 * [Browser Support ](#browser)
 * [Architecture Diagram](#architecture)
 * [Technical Materials](#steps)
+  * [Aggregator](#agg)
+  * [UI](#ui)
+  * [Open Sentencing Model](#open)
+  * [Report Generator](#report)
+  * [Bias Detection Engine](#bias)
 * [Data Sources](#sources)
 * [Future Implementations/Ideas](#future)
 * [References](#references)
-* [License ](#lincense)
+* [License](#license)
+
 
 <a name="out"></a>
 ## **What is Outcarcerate?**
@@ -68,35 +76,40 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 <a name="architecture"></a>
 ## Architecture Diagram
-[![Picture1.png](https://i.postimg.cc/x1mJ3mGG/Picture1.png)](https://postimg.cc/DS2w28Mm)
+[![architecture.png](https://i.postimg.cc/dV27XRq2/architecture.png)](https://postimg.cc/v4mHxVxT)
 
 <a name="steps"></a>
-## **Technical Materials** - 
+## **Technical Materials** 
 
+<a name="agg"></a>
 Aggregator
-* Repo: https://github.com/embrace-call-for-code/outcarcerate-aggregator
-* OpenAPI: https://github.com/embrace-call-for-code/outcarcerate-aggregator/blob/master/src/main/resources/swagger.yaml
-* Service URL: https://outcarcerate-aggregator-decarcerate.embrace-dev-ocp43-vpc-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud/
+* [Repo](https://github.com/embrace-call-for-code/outcarcerate-aggregator)
+* [OpenAPI](https://github.com/embrace-call-for-code/outcarcerate-aggregator/blob/master/src/main/resources/swagger.yaml)
+* [Service URL](https://outcarcerate-aggregator-decarcerate.embrace-dev-ocp43-vpc-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud/)
 [![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)](https://postimg.cc/vc2W9wwY)
 UPLOAD VIDEO DEMO HERE
 
+<a name="ui"></a>
 UI (User-Interface)
-*  Mock-up: https://ibm.invisionapp.com/share/92O0CQSMK7Q
-*  Repo: https://github.com/embrace-call-for-code/outcarcerate-ui
+*  [Mock-up](https://ibm.invisionapp.com/share/Q5O0KIVUNE8)
+*  [Repo](https://github.com/embrace-call-for-code/outcarcerate-ui)
 
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UI%20Example.png)
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UIexample2.png)
 
+<a name="open"></a>
 Open Sentencing Model
-* Repo: https://github.com/embrace-call-for-code/open-sentencing-model
-* Demo:
+* [Repo](https://github.com/embrace-call-for-code/open-sentencing-model)
+* [Demo]
 
+<a name="report"></a>
 Report Generator
-* Repo: https://github.com/embrace-call-for-code/outcarcerate-report-generator
+* [Repo](https://github.com/embrace-call-for-code/outcarcerate-report-generator)
 * Demo:
 
+<a name="bias"></a>
 Bias Detection Engine
-* Repo: https://github.com/embrace-call-for-code/bias-detection-engine
+* [Repo](https://github.com/embrace-call-for-code/bias-detection-engine)
 * Demo:
 
 <a name="sources"></a>
@@ -123,6 +136,7 @@ Going forward, we hope the solution will have a global impact on the advancement
 [America's Public Defense System Is in Crisis](https://www.youtube.com/watch?v=xqLE4ryWMX4)
 
 In addition, sponsor user interview Based Research Conducted by Outcarcerate Team included a judge and attorneys.
+
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/ToBePD.png)
 
 [Find Support Here](https://github.com/Call-for-Code/Embrace-Judicial-Reform/blob/main/SUPPORT.md)
@@ -142,5 +156,7 @@ Team Members:
 The embed link applications are licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt). 
 [Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN) 
 The embed sites provides applications using data that has been modified for use from its original source, www.ida.ussc.gov, an official website of the U.S. Sentencing Commission. The U.S. Sentencing Commission makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk. 
+
 This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/embrace-call-for-code/outcarcerate-ui/blob/master/LICENSE) file for details 
+
 Content license pending legal guidance. 
