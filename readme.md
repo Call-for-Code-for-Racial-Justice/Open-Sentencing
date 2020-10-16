@@ -1,4 +1,4 @@
-[![Embrace-Logo.png](https://i.postimg.cc/x88MVXs0/Embrace-Logo.png)](https://postimg.cc/K3XRn8SV)
+![](launch-logo.png)
 
 # **Solution Starter Kit - Open Sentencing**
 ## 
