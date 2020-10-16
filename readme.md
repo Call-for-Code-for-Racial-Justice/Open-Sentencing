@@ -4,7 +4,7 @@
 ## 
 This solution starter was created by a team of IBM/Red Hat employee volunteers as part of the Emb(race) Call for Code Challenge.
 
-Emb(race) Team Members:  Please see the end of this document!
+Open Sentencing Team Members:  Please see the end of this document!
 
 ## **Table of Contents**
 * [ What is Open Sentencing ](#out)
