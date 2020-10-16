@@ -1,13 +1,13 @@
 [![Embrace-Logo.png](https://i.postimg.cc/x88MVXs0/Embrace-Logo.png)](https://postimg.cc/K3XRn8SV)
 
-# **Solution Starter Kit - Outcarcerate**
+# **Solution Starter Kit - Open Sentencing**
 ## 
 This solution starter was created by a team of IBM/Red Hat employee volunteers as part of the Emb(race) Call for Code Challenge.
 
 Emb(race) Team Members:  Please see the end of this document!
 
 ## **Table of Contents**
-* [ What is Outcarcerate ](#out)
+* [ What is Open Sentencing ](#out)
 * [ How Tech Can Help ](#help)
 * [ Idea/Solution ](#solution)
 * [User and Skills](#skills)
@@ -26,8 +26,8 @@ Emb(race) Team Members:  Please see the end of this document!
 
 
 <a name="out"></a>
-## **What is Outcarcerate?**
-People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a deep and lasting impact on black families, communities and the country. Outcarcerate exposes bias and empowers public defenders to directly address racial disparities in the system.  Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused persons judiciary process.  The reports from Outcarcerate provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
+## **What is Open Sentencing?**
+People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a deep and lasting impact on black families, communities and the country. Outcarcerate exposes bias and empowers public defenders to directly address racial disparities in the system.  Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused persons judiciary process.  The reports from Open Sentencing provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
 
 We created a tool with the goal of ***reducing sentencing*** for people impacted by **bias** and **racism**.
 
@@ -83,7 +83,7 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 <a name="agg"></a>
 Aggregator
-* [Repo](https://github.com/embrace-call-for-code/outcarcerate-aggregator)
+* [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Aggregator)
 * [OpenAPI](https://github.com/embrace-call-for-code/outcarcerate-aggregator/blob/master/src/main/resources/swagger.yaml)
 * [Service URL](https://outcarcerate-aggregator-decarcerate.embrace-dev-ocp43-vpc-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud/)
 [![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)](https://postimg.cc/vc2W9wwY)
@@ -92,19 +92,19 @@ UPLOAD VIDEO DEMO HERE
 <a name="ui"></a>
 UI (User-Interface)
 *  [Mock-up](https://ibm.invisionapp.com/share/Q5O0KIVUNE8)
-*  [Repo](https://github.com/embrace-call-for-code/outcarcerate-ui)
+*  [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-UI)
 
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UI%20Example.png)
 ![](https://github.com/embrace-call-for-code/outcarcerate-docs/blob/master/UIexample2.png)
 
 <a name="open"></a>
 Open Sentencing Model
-* [Repo](https://github.com/embrace-call-for-code/open-sentencing-model)
+* [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model)
 * [Demo]
 
 <a name="report"></a>
 Report Generator
-* [Repo](https://github.com/embrace-call-for-code/outcarcerate-report-generator)
+* [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Report-Generator)
 * Demo:
 
 <a name="bias"></a>
