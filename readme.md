@@ -1,4 +1,4 @@
-[![Embrace-Logo.png](https://i.postimg.cc/x88MVXs0/Embrace-Logo.png)](https://postimg.cc/K3XRn8SV)
+![Embrace-Logo.png](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/launch-logo.png)
 
 # **Solution Starter Kit - Open Sentencing**
 ## 
@@ -76,7 +76,7 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 <a name="architecture"></a>
 ## Architecture Diagram
-[![architecture.png](https://i.postimg.cc/dV27XRq2/architecture.png)](https://postimg.cc/v4mHxVxT)
+![architecture.png](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/architecture.png)
 
 <a name="steps"></a>
 ## **Technical Materials** 
