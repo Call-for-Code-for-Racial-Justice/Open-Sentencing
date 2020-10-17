@@ -118,7 +118,8 @@ Bias Detection Engine
 
 * Bias * Disparity (BDDE) Detection Engine accesses Dataset #3- Historical Sentencing documents showing how similarly charged Marijuana trafficking cases were settled, prioritizing those documents that carry publicly available defendant’s demographic info showing race and sex of defendants 
 Public Data not requiring licensing agreement that contains private info requiring privacy protection
-*Cook  County State county data  set used in Open Sentencing.
+
+Cook  County State county data  set used in Open Sentencing.
 
 
 <a name="future"></a>
