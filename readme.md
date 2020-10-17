@@ -35,7 +35,11 @@ We created a tool with the goal of ***reducing sentencing*** for people impacted
 ## **How Tech Can Help**
 A simple to use tool can make the process of collecting and analyzing data quicker and easier for already very busy and often overloaded public defenders. Our tool can quickly highlight bias and other insights saving valuable time allowing more focused on reducing sentences.  Black Lives Matter - let's fairly give people more of life outside of prison.  
 
->Our solution works with the bias detection engine - Learn more here: https://github.com/Call-for-Code-for-Racial-Justice/bias-detection-engine
+>Our solution works with the bias detection engine and open sentencing - Learn more here: https://github.com/Call-for-Code-for-Racial-Justice/bias-detection-engine and here: https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model
+
+The way the data flows through the solution follows according to the diagram below:
+
+![](Data Flow Open Sentencing 10_17_2020.png)
 
 <a name="solution"></a>
 ## **Idea/Solution**
