@@ -78,7 +78,7 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 <a name="architecture"></a>
 ## Architecture Diagram
-[![architecture.png](https://i.postimg.cc/dV27XRq2/architecture.png)](https://postimg.cc/v4mHxVxT)
+![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/architecture.png)
 
 <a name="steps"></a>
 ## **Technical Materials**
