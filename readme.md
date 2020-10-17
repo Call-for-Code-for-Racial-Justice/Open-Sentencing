@@ -115,7 +115,11 @@ Bias Detection Engine
 
 * [United States Sentencing Commission](https://ida.ussc.gov/analytics/saw.dll?Dashboard)
 * Uploaded files from lawyers, police, court staff, or links to case file management systems.
-* Others Data Sources In progress (ideally we'd expand to all levels of government).
+
+* Bias * Disparity (BDDE) Detection Engine accesses Dataset #3- Historical Sentencing documents showing how similarly charged Marijuana trafficking cases were settled, prioritizing those documents that carry publicly available defendant’s demographic info showing race and sex of defendants 
+Public Data not requiring licensing agreement that contains private info requiring privacy protection
+*Cook  County State county data  set used in Open Sentencing.
+
 
 <a name="future"></a>
 ## Future Implementations/Ideas
