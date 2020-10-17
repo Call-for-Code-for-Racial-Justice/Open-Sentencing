@@ -130,6 +130,13 @@ Public Data not requiring licensing agreement that contains private info requiri
 ## Future Implementations/Ideas
 Going forward, we hope the solution will have a global impact on the advancement of racial justice, and with the solution -- that institutions, organizations, and individuals -- can continue to build an understanding, participation, and collaboration to sustain and grow commitments towards an equitable safe and enhanced quality of life. Race will have nothing to do with who is in jail. The solution will get adopted at each level of government – from cities, counties, states and federal – with the associated data available and enhanced to enable effective analysis and make recommendations to address the disparities in sentencing of Black defendants. We want to find partners who can help us get access to bigger and richer data sets, as well as partners who can help us build a solution that meets all of the legal and security standards that will allow us to use more information about individual defendants and cases.
 
+## Help Wanted!
+We would love your support to help us move this idea forward!
+Areas where we need help:
+ * UI improvements
+ * Code improvements
+ * Others!  
+
 <a name="references"></a>
 ## **References**
 
