@@ -37,7 +37,7 @@ A simple to use tool can make the process of collecting and analyzing data quick
 
 >Our solution works with the bias detection engine and open sentencing - Learn more here: https://github.com/Call-for-Code-for-Racial-Justice/bias-detection-engine and here: https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model
 
-The way the data flows through the solution follows according to the diagram below:
+Please see the diagram below to understand how data flows through the solution:
 
 ![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/Data%20Flow%20Open%20Sentencing%2010_17_2020.png)
 
