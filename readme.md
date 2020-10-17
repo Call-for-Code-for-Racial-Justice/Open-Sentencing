@@ -89,7 +89,6 @@ Aggregator
 * [OpenAPI](https://github.com/Call-for-Code-for-Racial-Justice/Open-Aggregator/blob/master/src/main/resources/swagger.yaml)
 * [Service URL](https://outcarcerate-aggregator-decarcerate.embrace-dev-ocp43-vpc-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud/)
 [![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)](https://postimg.cc/vc2W9wwY)
-UPLOAD VIDEO DEMO HERE
 
 <a name="ui"></a>
 UI (User-Interface)
@@ -102,17 +101,14 @@ UI (User-Interface)
 <a name="open"></a>
 Open Sentencing Model
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model)
-* [Demo]
 
 <a name="report"></a>
 Report Generator
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Report-Generator)
-* Demo:
 
 <a name="bias"></a>
 Bias Detection Engine
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/bias-detection-engine)
-* Demo:
 
 <a name="sources"></a>
 ## **Data Sources**
