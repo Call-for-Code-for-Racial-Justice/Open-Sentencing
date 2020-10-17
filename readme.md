@@ -39,7 +39,7 @@ A simple to use tool can make the process of collecting and analyzing data quick
 
 The way the data flows through the solution follows according to the diagram below:
 
-![](Data Flow Open Sentencing 10_17_2020.png)
+![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/Data%20Flow%20Open%20Sentencing%2010_17_2020.png)
 
 <a name="solution"></a>
 ## **Idea/Solution**
@@ -120,10 +120,10 @@ Bias Detection Engine
 * [United States Sentencing Commission](https://ida.ussc.gov/analytics/saw.dll?Dashboard)
 * Uploaded files from lawyers, police, court staff, or links to case file management systems.
 
-* Bias * Disparity (BDDE) Detection Engine accesses Dataset #3- Historical Sentencing documents showing how similarly charged Marijuana trafficking cases were settled, prioritizing those documents that carry publicly available defendant’s demographic info showing race and sex of defendants 
+* Bias Disparity (BDDE) Detection Engine accesses Dataset #3- Historical Sentencing documents showing how similarly charged Marijuana trafficking cases were settled, prioritizing those documents that carry publicly available defendant’s demographic info showing race and sex of defendants 
 Public Data not requiring licensing agreement that contains private info requiring privacy protection
 
-Cook  County State county data  set used in Open Sentencing.
+* Cook County State county data  set used in Open Sentencing.
 
 
 <a name="future"></a>
