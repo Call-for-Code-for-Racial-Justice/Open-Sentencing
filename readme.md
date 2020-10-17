@@ -2,7 +2,7 @@
 
 # **Open Sentencing Solution Starter**
 
-Open Sentencing exposes bias and empowers public defenders to directly address racial disparities in the system.
+The Open Sentencing solution starter helps expose bias and empowers public defenders to directly address racial disparities in the judicial system.
 
 ## **Table of Contents**
 * [ What is Open Sentencing ](#out)
@@ -25,7 +25,7 @@ Open Sentencing exposes bias and empowers public defenders to directly address r
 
 <a name="out"></a>
 ## **What is Open Sentencing?**
-People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a deep and lasting impact on black families, communities and the country. Open Sentencing exposes bias and empowers public defenders to directly address racial disparities in the system.  Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused persons judiciary process.  The reports from Open Sentencing provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
+People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a deep and lasting impact on black families, communities and the country. The Open Sentencing solution starter helps expose bias and empowers public defenders to directly address racial disparities in the judicial system.  Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused persons judiciary process.  The reports from Open Sentencing solution starter provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
 
 We created a tool with the goal of ***reducing sentencing*** for people impacted by **bias** and **racism**.
 
@@ -147,7 +147,7 @@ Contributions are subject to the Developer Certificate of Origin, Version 1.1 (D
 
 #### Team Members:
 
-This solution starter was created by a team of IBM/Red Hat employee volunteers as part of the Call for Code for Racial Justice Challenge.
+This solution starter was created by a team of IBM / Red Hat employee volunteers as part of the Call for Code for Racial Justice Challenge.
 
 ![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/OpenSentencingTeam.png)
 
@@ -155,7 +155,7 @@ This solution starter was created by a team of IBM/Red Hat employee volunteers a
 ## **License**
 The embed link applications are licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 [Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
-The embed sites provides applications using data that has been modified for use from its original source, www.ida.ussc.gov, an official website of the U.S. Sentencing Commission. The U.S. Sentencing Commission makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk. 
+The embed sites provides applications using data that has been modified for use from its original source, www.ida.ussc.gov, an official website of the U.S. Sentencing Commission. The U.S. Sentencing Commission makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.
 
 This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-UI/blob/master/LICENSE) file for details
 
