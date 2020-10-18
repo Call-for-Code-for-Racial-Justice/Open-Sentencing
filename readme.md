@@ -39,7 +39,7 @@ A simple to use tool can make the process of collecting and analyzing data quick
 
 Please see the diagram below to understand how data flows through the solution:
 
-![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/Data%20Flow%20Open%20Sentencing%2010_17_2020.png)
+![](Data%20Flow%20Open%20Sentencing%2010_17_2020.png)
 
 <a name="solution"></a>
 ## **Idea/Solution**
@@ -78,7 +78,7 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 <a name="architecture"></a>
 ## Architecture Diagram
-![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/architecture.png)
+![](architecture.png)
 
 <a name="steps"></a>
 ## **Technical Materials**
@@ -155,13 +155,13 @@ Contributions are subject to the Developer Certificate of Origin, Version 1.1 (D
 
 *Thank you* for your interest and we truly hope this helps!
 
-![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/Call%20for%20Code.png)
+![](Call%20for%20Code.png)
 
 #### Team Members:
 
 This solution starter was created by a team of IBM / Red Hat employee volunteers as part of the Call for Code for Racial Justice Challenge.
 
-![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/OpenSentencingTeam.png)
+![](OpenSentencingTeam.png)
 
 <a name="license"></a>
 ## **License**
