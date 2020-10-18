@@ -5,22 +5,26 @@
 The Open Sentencing solution starter helps expose bias and empowers public defenders to directly address racial disparities in the judicial system.
 
 ## **Table of Contents**
-* [ What is Open Sentencing ](#out)
-* [ How Tech Can Help ](#help)
-* [ Idea/Solution ](#solution)
-* [User and Skills](#skills)
-* [Browser Support ](#browser)
-* [Architecture Diagram](#architecture)
-* [Technical Materials](#steps)
-  * [Aggregator](#agg)
-  * [UI](#ui)
-  * [Open Sentencing Model](#open)
-  * [Report Generator](#report)
-  * [Bias Detection Engine](#bias)
-* [Data Sources](#sources)
-* [Future Implementations/Ideas](#future)
-* [References](#references)
-* [License](#license)
+- [**Open Sentencing Solution Starter**](#open-sentencing-solution-starter)
+  - [**Table of Contents**](#table-of-contents)
+  - [**What is Open Sentencing?**](#what-is-open-sentencing)
+  - [**How Tech Can Help**](#how-tech-can-help)
+  - [**Idea/Solution**](#ideasolution)
+  - [**Users and Skills**](#users-and-skills)
+  - [Browser Support:](#browser-support)
+  - [Architecture Diagram](#architecture-diagram)
+  - [**Technical Materials**](#technical-materials)
+  - [**Data Sources**](#data-sources)
+  - [Future Implementations/Ideas](#future-implementationsideas)
+  - [Help Wanted!](#help-wanted)
+    - [Partners](#partners)
+    - [Research and Data Gathering](#research-and-data-gathering)
+    - [UI improvements](#ui-improvements)
+    - [Aggregator and Report Generator improvements](#aggregator-and-report-generator-improvements)
+    - [Overall code improvements](#overall-code-improvements)
+  - [**References**](#references)
+      - [Team Members:](#team-members)
+  - [**License**](#license)
 
 
 <a name="out"></a>
@@ -129,9 +133,32 @@ Going forward, we hope the solution will have a global impact on the advancement
 ## Help Wanted!
 We would love your support to help us move this idea forward!
 Areas where we need help:
- * UI improvements
- * Code improvements
- * Others!  
+
+### Partners
+* Sponsor Users: We need public defenders and other criminal defense lawyers who are willing to be sponsor users, and give us feedback on our tool(s) several times over the coming months. We want to make this as easy to use and helpful as possible; adding another tool to your day should be worth the effort. We would also like to conduct additional user interviews to understand your day-to-day work experiences.  The user interviews we have done so far have been very helpful, but experiences will vary from one attorney or jurisdiction to another.
+* Working the System: We would like to work with motivated government agencies and non-governmental organizations.
+* Universities and law schools may be able to help us with research and data gathering.
+* A Case-Management Software company could be a valuable partner, if the company is also committed to an open source solution. We could see our tools eventually integrating with case-management software.
+
+### Research and Data Gathering
+* The hard part, we have found, is finding machine-readable data with a license that allows us to use it.  Doing the reasearch to find that data and understand its licensing takes time and many people.
+* Criminal Justice Funnel Data: We need data sets that show how defendants are moving through the criminal justice system "funnel" in many different jurisdictions, with race as one of the data points.  We've only found two data sets we can use so far. Sometimes the data sets aren't publicly available yet, or the licenses are not yet permissive enough for us to use them in our AI/ML processing, or the data is not readily available in a machine-readable format.
+* Sentencing Guidelines: We need detailed machine-readable sentencing guidelines data for the same jurisdictions as above. This can eventually help us find sentencing guidelines that result in disparate outcomes.  It can also help us find cases where certain groups of people are more likely to receive sentences on the higher or lower end of the ranges specified by the sentencing guidelines.
+* Plea Barganing Data: For our project to reach its full potential, we want to collect data on the plea bargaining process across many cases.  Usually, plea bargain negotiations are not recorded in writing, or at least not available to us.  Whether this means conducting a formal research study, or enhancing our tools to collect data with the proper consent and security/privacy controls, we will need help navigating that process.
+* Fact Pattern Data: We need descriptions of cases and how the cases fit (or do not fit) with certain criminal charges, across various jursidictions.
+
+### UI improvements
+* As we're able to add more functionality to our system, we'll need to continue to update the UI to display more information. We plan to post an Invision prototype for each iteration, and we will need front-end developers to make the vision a reality.
+* We also envision a publicly-accessible dashboard, but we haven't started development on it yet.
+
+### Aggregator and Report Generator improvements
+* As we're able to add more functionality to our system, we'll need to continue to update the Aggregator and Report Generator to process that information. Watch out for Github issues opened for additional objects that we need in our database schema and reports.
+* We'll also need more REST APIs over time to retrieve and update the data.
+
+### Overall code improvements
+* We will need continuous improvements to our contribution and deployment guides. As you're trying to get these solutions deployed and running, please submit pull requests to our documentation to improve it.
+* We would like guides for additional deployment options. For example, on your laptop, using OpenShift, or using various other cloud providers. 
+* Our microservices are spread across several repositories, and that could be confusing to new contributors. If you have a good example of how to combine multiple services that use different programming languages and frameworks into one repositories, open an issue and let us know!
 
 <a name="references"></a>
 ## **References**
