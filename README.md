@@ -11,19 +11,19 @@ The Open Sentencing solution starter helps expose bias and empowers public defen
   - [**How Tech Can Help**](#how-tech-can-help)
   - [**Idea/Solution**](#ideasolution)
   - [**Users and Skills**](#users-and-skills)
-  - [Browser Support:](#browser-support)
-  - [Architecture Diagram](#architecture-diagram)
+  - [**Browser Support**](#browser-support)
+  - [**Architecture Diagram**](#architecture-diagram)
   - [**Technical Materials**](#technical-materials)
   - [**Data Sources**](#data-sources)
-  - [Future Implementations/Ideas](#future-implementationsideas)
-  - [Help Wanted!](#help-wanted)
-    - [Partners](#partners)
-    - [Research and Data Gathering](#research-and-data-gathering)
-    - [UI improvements](#ui-improvements)
-    - [Aggregator and Report Generator improvements](#aggregator-and-report-generator-improvements)
-    - [Overall code improvements](#overall-code-improvements)
+  - [**Future Implementations/Ideas**](#future-implementationsideas)
+  - [**Help Wanted!**](#help-wanted)
+    - [**Partners**](#partners)
+    - [**Research and Data Gathering**](#research-and-data-gathering)
+    - [**UI improvements**](#ui-improvements)
+    - [**Aggregator and Report Generator improvements**](#aggregator-and-report-generator-improvements)
+    - [**Overall code improvements**](#overall-code-improvements)
   - [**References**](#references)
-      - [Team Members:](#team-members)
+      - [**Team Members**](#team-members)
   - [**License**](#license)
 
 
@@ -73,7 +73,7 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 * *SMEs* (Lawyers, American Bar Association, Southern Poverty Law Center, Judiciary NGOs):  skills:  unsupervised learning for training and expanding the ML/bias detection engine for new personas, locales, scope, crime types, etc.
 
 <a name="browser"></a>
-## Browser Support:
+## Browser Support
 * Chrome
 * Edge
 * Firefox
@@ -132,6 +132,7 @@ Going forward, we hope the solution will have a global impact on the advancement
 
 ## Help Wanted!
 We would love your support to help us move this idea forward!
+Please read the [CONTRIBUTING guidelines](/CONTRIBUTING.md)
 Areas where we need help:
 
 ### Partners
@@ -176,7 +177,10 @@ In addition, sponsor user interview Based Research Conducted by Open Sentencing 
 
 ![](/images/ToBePD.png)
 
-[Find Support Here](https://github.com/Call-for-Code/Embrace-Judicial-Reform/blob/main/SUPPORT.md)
+## Support
+
+Join the [Call for Code Slack workspace](https://callforcode.org/slack) and subscribe to
+the #racial-justice-open-sentencing](https://callforcode.slack.com/archives/C01DJ8J1QP2) channel.
 
 Contributions are subject to the Developer Certificate of Origin, Version 1.1 (DCO) (https://developercertificate.org/) and the Apache Software License, Version 2 (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
@@ -184,7 +188,7 @@ Contributions are subject to the Developer Certificate of Origin, Version 1.1 (D
 
 ![](/images/Call-for-Code.png)
 
-#### Team Members:
+#### Team Members
 
 This solution starter was created by a team of IBM / Red Hat employee volunteers as part of the Call for Code for Racial Justice Challenge.
 
