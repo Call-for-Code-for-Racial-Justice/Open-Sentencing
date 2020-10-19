@@ -1,4 +1,4 @@
-![](launch-logo.png)
+![](/images/launch-logo.png)
 
 # **Open Sentencing Solution Starter**
 
@@ -43,7 +43,7 @@ A simple to use tool can make the process of collecting and analyzing data quick
 
 Please see the diagram below to understand how data flows through the solution:
 
-![](Data%20Flow%20Open%20Sentencing%2010_17_2020.png)
+![](/images/Data-Flow-Open-Sentencing-10_17_2020.png)
 
 <a name="solution"></a>
 ## **Idea/Solution**
@@ -61,7 +61,7 @@ Web application where a defense attorney / public defender can upload informatio
 Our tool will clearly indicate and denote when bias/racism was detected and highlight it for attorneys to use in defense process.
 Bias detection (highlighted clearly), demographics from uploads, key sentencing information that we mined and have within our tool, as well as recommendations from our tool make a public defenders job easier and frees up time to focus on case(s).
 
-![](Bias%20Detection.png)
+![](/images/Bias-Detection.png)
 
 <a name="skills"></a>
 ## **Users and Skills**
@@ -82,32 +82,32 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 <a name="architecture"></a>
 ## Architecture Diagram
-![](architecture.png)
+![](/images/architecture.png)
 
 <a name="steps"></a>
 ## **Technical Materials**
 
 <a name="agg"></a>
-Aggregator
+### Aggregator
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Aggregator)
 * [OpenAPI](https://github.com/Call-for-Code-for-Racial-Justice/Open-Aggregator/blob/master/src/main/resources/swagger.yaml)
 * [Service URL](https://outcarcerate-aggregator-decarcerate.embrace-dev-ocp43-vpc-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud/)
-[![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)](https://postimg.cc/vc2W9wwY)
+![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)](https://postimg.cc/vc2W9wwY)
 
 <a name="ui"></a>
-UI (User-Interface)
-*  [Mock-up](https://ibm.invisionapp.com/share/Q5O0KIVUNE8)
-*  [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-UI)
+### UI (User-Interface)
+* [Mock-up](https://ibm.invisionapp.com/share/Q5O0KIVUNE8)
+* [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-UI)
 
-![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/UI%20Example.png)
-![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/UIexample2.png)
+![](/images/UI-example.png)
+![](/images/UI-example2.png)
 
 <a name="open"></a>
-Open Sentencing Model
+### Open Sentencing Model
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model)
 
 <a name="report"></a>
-Report Generator
+### Report Generator
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Report-Generator)
 
 <a name="bias"></a>
@@ -115,7 +115,7 @@ Bias Detection Engine
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/bias-detection-engine)
 
 <a name="sources"></a>
-## **Data Sources**
+## Data Sources
 
 * [United States Sentencing Commission](https://ida.ussc.gov/analytics/saw.dll?Dashboard)
 * Uploaded files from lawyers, police, court staff, or links to case file management systems.
@@ -157,7 +157,7 @@ Areas where we need help:
 
 ### Overall code improvements
 * We will need continuous improvements to our contribution and deployment guides. As you're trying to get these solutions deployed and running, please submit pull requests to our documentation to improve it.
-* We would like guides for additional deployment options. For example, on your laptop, using OpenShift, or using various other cloud providers. 
+* We would like guides for additional deployment options. For example, on your laptop, using OpenShift, or using various other cloud providers.
 * Our microservices are spread across several repositories, and that could be confusing to new contributors. If you have a good example of how to combine multiple services that use different programming languages and frameworks into one repositories, open an issue and let us know!
 
 <a name="references"></a>
@@ -174,7 +174,7 @@ Areas where we need help:
 
 In addition, sponsor user interview Based Research Conducted by Open Sentencing Team included a judge and attorneys.
 
-![](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/blob/master/ToBePD.png)
+![](/images/ToBePD.png)
 
 [Find Support Here](https://github.com/Call-for-Code/Embrace-Judicial-Reform/blob/main/SUPPORT.md)
 
@@ -182,13 +182,13 @@ Contributions are subject to the Developer Certificate of Origin, Version 1.1 (D
 
 *Thank you* for your interest and we truly hope this helps!
 
-![](Call%20for%20Code.png)
+![](/images/Call-for-Code.png)
 
 #### Team Members:
 
 This solution starter was created by a team of IBM / Red Hat employee volunteers as part of the Call for Code for Racial Justice Challenge.
 
-![](OpenSentencingTeam.png)
+![](/images/OpenSentencingTeam.png)
 
 <a name="license"></a>
 ## **License**
@@ -196,6 +196,6 @@ The embed link applications are licensed under the Apache License, Version 2. Se
 [Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
 The embed sites provides applications using data that has been modified for use from its original source, www.ida.ussc.gov, an official website of the U.S. Sentencing Commission. The U.S. Sentencing Commission makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.
 
-This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-UI/blob/master/LICENSE) file for details
+This project is licensed under the Apache 2 License - see the [LICENSE](/LICENSE) file for details
 
 Content license pending legal guidance.
