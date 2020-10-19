@@ -63,6 +63,10 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 
 ![](/images/Bias-Detection.png)
 
+## Open Sentencing Video
+
+[![Video Call for Code for Racial Justice Solution Starter: Open Sentencing ](https://img.youtube.com/vi/btqh9EKOg44/0.jpg)](https://www.youtube.com/watch?v=btqh9EKOg44)
+
 <a name="skills"></a>
 ## **Users and Skills**
 
