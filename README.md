@@ -92,7 +92,7 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Aggregator)
 * [OpenAPI](https://github.com/Call-for-Code-for-Racial-Justice/Open-Aggregator/blob/master/src/main/resources/swagger.yaml)
 * [Service URL](https://outcarcerate-aggregator-decarcerate.embrace-dev-ocp43-vpc-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud/)
-![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)](https://postimg.cc/vc2W9wwY)
+![Screen-Shot-2020-10-05-at-6-16-23-PM.png](https://i.postimg.cc/3xY9s3Lv/Screen-Shot-2020-10-05-at-6-16-23-PM.png)
 
 <a name="ui"></a>
 ### UI (User-Interface)
