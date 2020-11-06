@@ -2,8 +2,7 @@
 
 # **Open Sentencing Solution Starter**
 
-The Open Sentencing solution starter helps expose bias and empowers public defenders to directly address racial disparities in the judicial system.
-
+The Open Sentencing solution starter helps expose bias and empowers public defenders to address racial disparities in the judicial system directly.
 ## **Table of Contents**
 - [**Open Sentencing Solution Starter**](#open-sentencing-solution-starter)
   - [**Table of Contents**](#table-of-contents)
@@ -29,7 +28,7 @@ The Open Sentencing solution starter helps expose bias and empowers public defen
 
 <a name="out"></a>
 ## **What is Open Sentencing?**
-People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a deep and lasting impact on black families, communities and the country. The Open Sentencing solution starter helps expose bias and empowers public defenders to directly address racial disparities in the judicial system.  Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused persons judiciary process.  The reports from Open Sentencing solution starter provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
+People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a profound and lasting impact on black families, communities and the country. The Open Sentencing solution starter helps expose bias and empowers public defenders  to address racial disparities in the judicial system directly. Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused person's judiciary process.  The reports from Open Sentencing solution starter provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
 
 We created a tool with the goal of ***reducing sentencing*** for people impacted by **bias** and **racism**.
 
@@ -37,7 +36,7 @@ We created a tool with the goal of ***reducing sentencing*** for people impacted
 
 <a name="help"></a>
 ## **How Tech Can Help**
-A simple to use tool can make the process of collecting and analyzing data quicker and easier for already very busy and often overloaded public defenders. Our tool can quickly highlight bias and other insights saving valuable time allowing more focused on reducing sentences.  Black Lives Matter - let's fairly give people more of life outside of prison.  
+A simple to use tool can make the process of collecting and analyzing data quicker and easier for already very busy and often overloaded public defenders. Our tool can quickly highlight bias and other insights saving valuable time, allowing more focused on reducing sentences.  Black Lives Matter - let's legally give people more of life outside of prison.  
 
 >Our solution works with the bias detection engine and open sentencing - Learn more here: https://github.com/Call-for-Code-for-Racial-Justice/bias-detection-engine and here: https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model
 
@@ -48,7 +47,7 @@ Please see the diagram below to understand how data flows through the solution:
 <a name="solution"></a>
 ## **Idea/Solution**
 
-Web application where a defense attorney / public defender can upload information about a case and the defendant.
+A Web application where a defense attorney / public defender can upload information about a case and the defendant.
 
 * Analyzes available data
 * Provides public defense attorneys with insights, connections, and bias indicators for each case
@@ -58,8 +57,8 @@ Web application where a defense attorney / public defender can upload informatio
 
 *Key Highlight*
 
-Our tool will clearly indicate and denote when bias/racism was detected and highlight it for attorneys to use in defense process.
-Bias detection (highlighted clearly), demographics from uploads, key sentencing information that we mined and have within our tool, as well as recommendations from our tool make a public defenders job easier and frees up time to focus on case(s).
+Our tool will indicate and denote when bias/racism was detected and highlight it for attorneys to use in defense process.
+Bias detection (highlighted clearly), demographics from uploads, key sentencing information that we mined and have within our tool, as well as recommendations from our tool make a public defenders job more accessible and frees up time to focus on the case(s).
 
 ![](/images/Bias-Detection.png)
 
@@ -70,7 +69,7 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 <a name="skills"></a>
 ## **Users and Skills**
 
-* *Developers*:  skills: React, OSS, full stack (java, python), data science; user experience: need to develop a getting started process
+* *Developers*:  skills: React, OSS, full-stack (java, python), data science; user experience: need to develop a getting started process
 * *End-users*:  skills: online training on navigating the tool
 * *Public*: skills:  none (intuitive interface); user experience:  immediate, informative, targeted information
 * *Private beneficiaries*:  N/A
@@ -125,14 +124,14 @@ Bias Detection Engine
 * Uploaded files from lawyers, police, court staff, or links to case file management systems.
 
 * Bias Disparity (BDDE) Detection Engine accesses Dataset #3- Historical Sentencing documents showing how similarly charged Marijuana trafficking cases were settled, prioritizing those documents that carry publicly available defendant’s demographic info showing race and sex of defendants 
-Public Data not requiring licensing agreement that contains private info requiring privacy protection
+Public Data not requiring licensing agreement that contains private information requiring privacy protection
 
-* Cook County State county data  set used in Open Sentencing.
+* Cook County State county data set used in Open Sentencing.
 
 
 <a name="future"></a>
 ## Future Implementations/Ideas
-Going forward, we hope the solution will have a global impact on the advancement of racial justice, and with the solution -- that institutions, organizations, and individuals -- can continue to build an understanding, participation, and collaboration to sustain and grow commitments towards an equitable safe and enhanced quality of life. Race will have nothing to do with who is in jail. The solution will get adopted at each level of government – from cities, counties, states and federal – with the associated data available and enhanced to enable effective analysis and make recommendations to address the disparities in sentencing of Black defendants. We want to find partners who can help us get access to bigger and richer data sets, as well as partners who can help us build a solution that meets all of the legal and security standards that will allow us to use more information about individual defendants and cases.
+As we advance, we hope the solution will have a global impact on the advancement of racial justice, and with the solution -- that institutions, organizations, and individuals -- can continue to build an understanding, participation, and collaboration to sustain and grow commitments towards an equitable safe and enhanced quality of life. Race will have nothing to do with who is in jail. The solution will get adopted at each level of government – from cities, counties, states and federal – with the associated data available and enhanced to enable effective analysis and make recommendations to address the disparities in the sentencing of Black defendants. We want to find partners who can help us get access to bigger and richer data sets, as well as partners who can help us build a solution that meets all of the legal and security standards that will allow us to use more information about individual defendants and cases.
 
 ## Help Wanted!
 We would love your support to help us move this idea forward!
@@ -140,17 +139,17 @@ Please read the [CONTRIBUTING guidelines](/CONTRIBUTING.md)
 Areas where we need help:
 
 ### Partners
-* Sponsor Users: We need public defenders and other criminal defense lawyers who are willing to be sponsor users, and give us feedback on our tool(s) several times over the coming months. We want to make this as easy to use and helpful as possible; adding another tool to your day should be worth the effort. We would also like to conduct additional user interviews to understand your day-to-day work experiences.  The user interviews we have done so far have been very helpful, but experiences will vary from one attorney or jurisdiction to another.
+* Sponsor Users: We need public defenders and other criminal defense lawyers who are willing to be sponsor users, and give us feedback on our tool(s) several times over the coming months. We want to make this as easy to use and helpful as possible; adding another tool to your day should be worth the effort. We would also like to conduct additional user interviews to understand your day-to-day work experiences.  The user interviews we have done so far have been benificial, but experiences will vary from one attorney or jurisdiction to another.
 * Working the System: We would like to work with motivated government agencies and non-governmental organizations.
 * Universities and law schools may be able to help us with research and data gathering.
-* A Case-Management Software company could be a valuable partner, if the company is also committed to an open source solution. We could see our tools eventually integrating with case-management software.
+* A Case-Management Software company could be a valuable partner if the company is also committed to an open-source solution. We could see our tools eventually integrating with case-management software.
 
 ### Research and Data Gathering
-* The hard part, we have found, is finding machine-readable data with a license that allows us to use it.  Doing the reasearch to find that data and understand its licensing takes time and many people.
+* The hard part, we have found, is finding machine-readable data with a license that allows us to use it. Researching to find that data and understand its licensing takes time and many people.
 * Criminal Justice Funnel Data: We need data sets that show how defendants are moving through the criminal justice system "funnel" in many different jurisdictions, with race as one of the data points.  We've only found two data sets we can use so far. Sometimes the data sets aren't publicly available yet, or the licenses are not yet permissive enough for us to use them in our AI/ML processing, or the data is not readily available in a machine-readable format.
 * Sentencing Guidelines: We need detailed machine-readable sentencing guidelines data for the same jurisdictions as above. This can eventually help us find sentencing guidelines that result in disparate outcomes.  It can also help us find cases where certain groups of people are more likely to receive sentences on the higher or lower end of the ranges specified by the sentencing guidelines.
-* Plea Barganing Data: For our project to reach its full potential, we want to collect data on the plea bargaining process across many cases.  Usually, plea bargain negotiations are not recorded in writing, or at least not available to us.  Whether this means conducting a formal research study, or enhancing our tools to collect data with the proper consent and security/privacy controls, we will need help navigating that process.
-* Fact Pattern Data: We need descriptions of cases and how the cases fit (or do not fit) with certain criminal charges, across various jursidictions.
+* Plea Bargaining Data: For our project to reach its full potential, we want to collect data on the plea bargaining process across many cases.  Usually, plea bargain negotiations are not recorded in writing, or at least not available to us.  Whether this means conducting a formal research study or enhancing our tools to collect data with the proper consent and security/privacy controls, we will need help navigating that process.
+* Fact Pattern Data: We need descriptions of cases and how the cases fit (or do not fit) with certain criminal charges, across various jurisdictions.
 
 ### UI improvements
 * As we're able to add more functionality to our system, we'll need to continue to update the UI to display more information. We plan to post an Invision prototype for each iteration, and we will need front-end developers to make the vision a reality.
@@ -158,12 +157,12 @@ Areas where we need help:
 
 ### Aggregator and Report Generator improvements
 * As we're able to add more functionality to our system, we'll need to continue to update the Aggregator and Report Generator to process that information. Watch out for Github issues opened for additional objects that we need in our database schema and reports.
-* We'll also need more REST APIs over time to retrieve and update the data.
+* We'll also need more REST APIs overtime to retrieve and update the data.
 
 ### Overall code improvements
 * We will need continuous improvements to our contribution and deployment guides. As you're trying to get these solutions deployed and running, please submit pull requests to our documentation to improve it.
 * We would like guides for additional deployment options. For example, on your laptop, using OpenShift, or using various other cloud providers.
-* Our microservices are spread across several repositories, and that could be confusing to new contributors. If you have a good example of how to combine multiple services that use different programming languages and frameworks into one repositories, open an issue and let us know!
+* Our microservices are spread across several repositories, and that could be confusing to new contributors. If you have a good example of how to combine multiple services that use different programming languages and frameworks into one repository, open an issue and let us know!
 
 <a name="references"></a>
 ## **References**
@@ -177,7 +176,7 @@ Areas where we need help:
 [Public Defenders: Last Week Tonight with John Oliver ](https://www.youtube.com/watch?v=USkEzLuzmZ4)
 [America's Public Defense System Is in Crisis](https://www.youtube.com/watch?v=xqLE4ryWMX4)
 
-In addition, sponsor user interview Based Research Conducted by Open Sentencing Team included a judge and attorneys.
+Besides, sponsor user interview Based Research Conducted by Open Sentencing Team included a judge and attorneys.
 
 ![](/images/ToBePD.png)
 
@@ -188,7 +187,7 @@ the [#racial-justice-open-sentencing](https://callforcode.slack.com/archives/C01
 
 Contributions are subject to the Developer Certificate of Origin, Version 1.1 (DCO) (https://developercertificate.org/) and the Apache Software License, Version 2 (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-*Thank you* for your interest and we truly hope this helps!
+*Thank you* for your interest and we genuinely hope this helps!
 
 ![](/images/Call-for-Code.png)
 
@@ -202,7 +201,7 @@ This solution starter was created by a team of IBM / Red Hat employee volunteers
 ## **License**
 The embed link applications are licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 [Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
-The embed sites provides applications using data that has been modified for use from its original source, www.ida.ussc.gov, an official website of the U.S. Sentencing Commission. The U.S. Sentencing Commission makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.
+The embed sites provide applications using data that has been modified for use from its original source, www.ida.ussc.gov, an official website of the U.S. Sentencing Commission. The U.S. Sentencing Commission makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.
 
 This project is licensed under the Apache 2 License - see the [LICENSE](/LICENSE) file for details
 
