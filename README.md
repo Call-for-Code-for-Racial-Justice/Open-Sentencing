@@ -109,10 +109,6 @@ Bias detection (highlighted clearly), demographics from uploads, key sentencing 
 ### Open Sentencing Model
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model)
 
-<a name="report"></a>
-### Report Generator
-* [Repo](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Report-Generator)
-
 <a name="bias"></a>
 Bias Detection Engine
 * [Repo](https://github.com/Call-for-Code-for-Racial-Justice/bias-detection-engine)
