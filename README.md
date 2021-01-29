@@ -132,6 +132,11 @@ As we advance, we hope the solution will have a global impact on the advancement
 ## Help Wanted!
 We would love your support to help us move this idea forward!
 Please read the [CONTRIBUTING guidelines](/CONTRIBUTING.md)
+
+[Open Issues](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/issues)
+
+Please see the Issues area within this GitHub project for specific open items we need help with!  We also have other ideas below!
+
 Areas where we need help:
 
 ### Partners
