@@ -198,6 +198,14 @@ This solution starter was created by a team of IBM / Red Hat employee volunteers
 
 ![](/images/OpenSentencingTeam.png)
 
+## Project Outreach / Events
+
+[**IBM Developer via Crowdcast (March 1, 2021)**](https://www.crowdcast.io/e/open-sentencing-an-open/register)
+
+[**The Linux Foundation Spring Member Meeting (March 9, 2021)**](https://events.linuxfoundation.org/lf-spring-member-meeting/)
+
+[**Presentation slides for The Linux Foundation Spring Member Meeting (March 9, 2021)**](https://events.linuxfoundation.org/wp-content/uploads/2021/03/LFSMM_Final_Template-Jo-Ann-H-Hill-IBM-v2.pdf)
+
 <a name="license"></a>
 ## **License**
 The embed link applications are licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
