@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue.svg)](https://developer.ibm.com/callforcode/racial-justice/get-started/)
+
 ![](/images/launch-logo.png)
 
 # **Open Sentencing Solution Starter**
@@ -183,8 +185,8 @@ Besides, sponsor user interview Based Research Conducted by Open Sentencing Team
 
 ## Support
 
-Join the [Call for Code Slack workspace](https://callforcode.org/slack) and subscribe to
-the [#racial-justice-open-sentencing](https://callforcode.slack.com/archives/C01DJ8J1QP2) channel.
+Join the [Call for Code Slack workspace](https://developer.ibm.com/callforcode/racial-justice/get-started/) and subscribe to
+the #racial-justice-open-sentencing channel.
 
 Contributions are subject to the Developer Certificate of Origin, Version 1.1 (DCO) (https://developercertificate.org/) and the Apache Software License, Version 2 (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
