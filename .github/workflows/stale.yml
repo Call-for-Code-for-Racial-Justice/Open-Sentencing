@@ -19,4 +19,4 @@ jobs:
         exempt-issue-label: 'keep-open'
         stale-pr-label: 'stale'
         days-before-stale: 30
-        days-before-close: 14
+        days-before-close: 365
