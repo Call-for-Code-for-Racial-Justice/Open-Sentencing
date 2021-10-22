@@ -137,6 +137,9 @@ Please read the [CONTRIBUTING guidelines](/CONTRIBUTING.md)
 
 [Open Issues](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/issues)
 
+If you have read this far - considering helping and join our weekly meeting Fridays at 1PM EST!
+Weekly Meeting Info https://ibm.webex.com/webappng/sites/ibm/meeting/download/3a9f6144826a49a79057d00bf79f4161?siteurl=ibm&MTID=m1a68ebfb68d8873f028f32198fdf58de
+
 Please see the Issues area within this GitHub project for specific open items we need help with!  We also have other ideas below!
 
 Areas where we need help:
