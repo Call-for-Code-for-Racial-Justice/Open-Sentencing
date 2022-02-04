@@ -27,6 +27,9 @@ The Open Sentencing solution starter helps expose bias and empowers public defen
       - [**Team Members**](#team-members)
   - [**License**](#license)
 
+You are welcome to join our Weekly Meetings!  
+Every Friday at 1PM EST we review our GitHub issues as a team.  Please join anytime!  Note: Sometimes we cancel due to holidays.  
+* [Dial In Info for 1PM EST Fridays](https://ibm.webex.com/webappng/sites/ibm/meeting/download/3a9f6144826a49a79057d00bf79f4161?siteurl=ibm&MTID=m1a68ebfb68d8873f028f32198fdf58de)
 
 <a name="out"></a>
 ## **What is Open Sentencing?**
